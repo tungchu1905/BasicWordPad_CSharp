@@ -1,0 +1,3 @@
+this is the first release of WordPad
+the function in this project may non-working and some is not have funtion
+try it and have some knowledge. Thanks
